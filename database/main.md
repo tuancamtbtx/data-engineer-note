@@ -1,5 +1,1 @@
-# cassandra
-
-# mysql
-
-# mongodb
+## Note những thông tin và hướng dẫn sử dụng về database
